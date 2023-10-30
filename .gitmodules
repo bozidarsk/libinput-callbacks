@@ -1,0 +1,3 @@
+[submodule "libinput-cs"]
+	path = libinput-cs
+	url = https://github.com/bozidarsk/libinput-cs.git
